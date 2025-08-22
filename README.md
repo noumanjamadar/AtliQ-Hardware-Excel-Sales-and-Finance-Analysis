@@ -16,7 +16,7 @@
 This project is a **data analysis case study** on **AtliQ Hardware**, a fictional company that sells hardware products such as **computers, PCs, and accessories (mouse, keyboards, etc.)**.  
 AtliQ Hardware distributes products through major retailers (e.g., **Croma, Amazon, Flipkart, Costco**) and also via its **exclusive stores and e-store**.  
 
-The dataset contains **1M+ records** across multiple tables, including:  
+The dataset contains **close to 1 Million records** across multiple tables, including:  
 - `dim_customer`  
 - `dim_product`  
 - `dim_market`  
