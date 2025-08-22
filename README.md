@@ -104,8 +104,7 @@ They cover:
 - Data Modeling (Power Pivot, Star Schema Design)  
 - DAX Calculations & KPIs (Net Sales, Gross Margin, Variance %)  
 - Business Reporting (P&L, Customer/Country Sales, Target vs Actual)  
-- Visualization (Conditional Formatting, Interactive Slicers & Filters)  
-- Storytelling with Data (Business insights for decision-making)  
+- Visualization (Conditional Formatting, Interactive Slicers & Filters)    
 - Advanced Date Handling (**Custom Fiscal Year: Sep–Aug, Quarter Calculations**)  
 
 ---
