@@ -89,7 +89,7 @@ They cover:
 - P&L reports by year and quarter  
 - Market profitability breakdown  
 📂 You can also explore the **interactive Excel file** with Power Query, Power Pivot, and DAX measures here:  
-[AtliQ_Hardware_Sales_Finance_Analysis.xlsx](./AtliQ_Hardware_Sales_Finance_Analysis.xlsx)
+[Download Excel Workbook](https://docs.google.com/spreadsheets/d/1diw82OG7qvXQ1bwAK9a0bagbEHEUd8aA/edit?usp=drive_link&ouid=108637359398456633790&rtpof=true&sd=true)
 ---
 
 ## 🚀 Tools & Technologies Used  
